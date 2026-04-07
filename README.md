@@ -34,7 +34,7 @@ Run Streamlit App
 streamlit run app.py
 Then open in browser:
 
-http://localhost:8501
+https://machine-learning-project-focgdj5wbhugxeska2isze.streamlit.app/
 
 🧠 Input Features
 

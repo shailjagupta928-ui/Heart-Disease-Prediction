@@ -1,4 +1,6 @@
 ❤️ Heart Disease Prediction using Machine Learning & Streamlit
+<img width="1014" height="516" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/5065c29c-3e32-4d17-b6a1-230b52bf17a8" />
+
 
 This project predicts whether a person has heart disease or not using Machine Learning.
 A simple web app is created using Streamlit where users can enter medical details and get prediction.

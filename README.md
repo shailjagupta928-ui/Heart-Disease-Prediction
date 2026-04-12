@@ -38,6 +38,14 @@ Then open in browser:
 
 https://machine-learning-project-focgdj5wbhugxeska2isze.streamlit.app/
 
+screenshots of my project
+
+<img width="1536" height="755" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/56a2bedb-af45-410f-8623-e285a04852e2" />
+
+<img width="1536" height="778" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/06abb7e6-4f2b-4d85-a840-9227394abaa3" />
+
+
+
 🧠 Input Features
 
 Age
